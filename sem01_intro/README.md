@@ -1,7 +1,7 @@
 ## Материалы к первой неделе
 
 * [Материалы семинара sem01](https://github.com/hse-econ-data-science/dap_2021_spring/tree/main/sem01_intro)
-* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2021_spring/blob/main/sem01_intro/sem01_intro.ipynb)
+* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2022-23/blob/main/sem01_intro/sem01_intro.ipynb)
 * [Задачи для семинара](https://official.contest.yandex.ru/contest/24363/enter/)
 * Прочитать про то [как писать код красиво (PEP 8)](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
 
