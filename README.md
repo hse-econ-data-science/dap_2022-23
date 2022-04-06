@@ -6,7 +6,7 @@
 
 -  Wiki-страница курса - ??? 
 - Youtube-каналы с записями семинаров: - ???
-- Таблица с вашими оценками - ??? 
+- [Таблица с вашими оценками](https://docs.google.com/spreadsheets/d/1yAHDJ9wWWYjuEADHdQOxzHo_IMKxINLHAuWICTpJAO0/edit?usp=sharing)
 - Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в общий чат. Там можно найти поддержку и пофлудить. [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/+_2BivfQyHHYxMzJi) 
