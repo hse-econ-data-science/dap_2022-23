@@ -5,7 +5,7 @@
 # Python 
 
 -  Wiki-страница курса - ??? 
-- Youtube-каналы с записями семинаров: - ???
+- Youtube-каналы с записями семинаров:  [канал Филиппа](https://www.youtube.com/playlist?list=PLNKXA-74YGLi5tYgh2yuvstoMIRcEgWPk)
 - [Таблица с вашими оценками](https://docs.google.com/spreadsheets/d/1yAHDJ9wWWYjuEADHdQOxzHo_IMKxINLHAuWICTpJAO0/edit?usp=sharing)
 - Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)

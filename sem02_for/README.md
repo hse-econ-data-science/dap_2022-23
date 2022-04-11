@@ -1,11 +1,13 @@
 ## Материалы к неделям 2-3 (циклы и условия)
 
-* [Материалы семинара sem02](https://github.com/hse-econ-data-science/dap_2021_spring/tree/main/sem02_forif)
-* [Материалы семинара sem03](https://github.com/hse-econ-data-science/dap_2021_spring/tree/main/sem03_forif)
+* [Материалы семинара sem02](https://github.com/hse-econ-data-science/dap_2022-23/blob/main/sem02_for/sem02_forif.ipynb) 
+
+* Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/dap_2022-23/blob/sem02_for/sem02_forif.ipynb)
+
 
 __Задачи для семинаров и самостоятельного решения:__ 
 
-Обратите внимание, что эти наборы задач практически полностью соответствуют [рекомендованному вам курсу с Coursera.](https://www.coursera.org/learn/python-osnovy-programmirovaniya#syllabus) Постарайтесь решить из каждого набора хотябы 50%. Если вам удобнее решать задачи на Coursera, тогда делайте это там.  
+Постарайтесь решить из каждого набора хотябы 50%. Если возникают сложности, требуйте консультаций у асистентов и семинаристов с разбором задач. 
 
 * [Задачи на условия](https://official.contest.yandex.ru/contest/24441/enter/) (первая половина 2 недели курса)
 * [Задачи на цикл while (можно решать и через for)](https://official.contest.yandex.ru/contest/24442/enter/) (вторая половина 2 недели курса)
