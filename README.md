@@ -38,6 +38,7 @@ __Контрольные:__
 Примеры мини-самостоялок: 
 
 - Мини-ср 1: [вариант 1,](https://forms.gle/xyDXa6uLbaPABKEd8)  [вариант 2](https://forms.gle/k1c48K2acC3UpDsM9)
+- Мини-ср 2: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSea6UXtW2C3LHVvFBGpRFyE6klyz568_526AcZLOyZcjUUqHg/viewform?usp=sf_link)
 
 
 
