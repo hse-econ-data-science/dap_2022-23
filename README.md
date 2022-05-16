@@ -37,10 +37,10 @@ __Контрольные:__
 
 Примеры мини-самостоялок: 
 
-- Мини-ср 1: [вариант 1,](https://forms.gle/xyDXa6uLbaPABKEd8)  [вариант 2](https://forms.gle/k1c48K2acC3UpDsM9)
+- Мини-ср 1: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSeiSHS5ZbjfOwSZ1gRnwv4dRAu4ldeimXI6QjV208XGh1n1bg/viewform?usp=sf_link)  [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSdzBKLF4TjXq_jEYWT8ApxzVcvG9mSBcbIXUYN38M-dSyTUxQ/viewform?usp=sf_link)
 - Мини-ср 2: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSea6UXtW2C3LHVvFBGpRFyE6klyz568_526AcZLOyZcjUUqHg/viewform?usp=sf_link)
 - Мини-ср 3: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSffQuoMUKKozLRIcdf_TKWr8hTmmG2FG_cbwNcoAbWNFWUFbw/viewform?usp=sf_link)
-
+- Мини-ср 4: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSf7uXZJ3Ca3VKMIzwCBLyLtCzKUYTIeGjMOxOtuPwNdFgiGTQ/viewform?usp=sf_link)
 
 
 ## Большой план маленьких побед
