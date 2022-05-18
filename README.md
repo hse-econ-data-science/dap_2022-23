@@ -30,7 +30,7 @@
 __Домашки:__
 
 - [Домашняя работа №1](https://official.contest.yandex.ru/contest/37490/enter/?retPage=problems)
-- [Домашняя работа №1](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
+- [Домашняя работа №2](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
 
 
 __Контрольные:__
