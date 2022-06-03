@@ -1,0 +1,1410 @@
+[
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/12 05:45:02",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 85
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/03/02 15:01:24",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 36
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/22 10:14:08",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/16 15:21:07",
+        "files": [
+            {
+                "name": "core/library.py",
+                "changed_lines": 17
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 6
+            },
+            {
+                "name": "library/net.py",
+                "changed_lines": 72
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/12 18:02:23",
+        "files": [
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 59
+            },
+            {
+                "name": "quality/library.py",
+                "changed_lines": 5
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/16 05:58:01",
+        "files": [
+            {
+                "name": "backend/library.py",
+                "changed_lines": 4
+            },
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 47
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/15 21:58:09",
+        "files": [
+            {
+                "name": "utils/library.py",
+                "changed_lines": 51
+            },
+            {
+                "name": "library/tools.py",
+                "changed_lines": 4
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/02/08 19:22:18",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 83
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/03/30 13:17:41",
+        "files": [
+            {
+                "name": "library/library.py",
+                "changed_lines": 4
+            },
+            {
+                "name": "quality/net.py",
+                "changed_lines": 69
+            },
+            {
+                "name": "core/net.py",
+                "changed_lines": 27
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/09 11:57:40",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 8
+            },
+            {
+                "name": "core/tools.py",
+                "changed_lines": 10
+            },
+            {
+                "name": "balancer/utils.py",
+                "changed_lines": 62
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/02/19 14:34:06",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 4
+            },
+            {
+                "name": "core/tools.py",
+                "changed_lines": 47
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/20 21:29:35",
+        "files": [
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 10
+            },
+            {
+                "name": "backend/tools.py",
+                "changed_lines": 54
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/16 15:05:45",
+        "files": [
+            {
+                "name": "library/tools.py",
+                "changed_lines": 97
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 23
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 36
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/01/25 07:07:42",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 44
+            },
+            {
+                "name": "backend/net.py",
+                "changed_lines": 59
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/02/27 10:56:31",
+        "files": [
+            {
+                "name": "utils/utils.py",
+                "changed_lines": 67
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/02/05 05:19:34",
+        "files": [
+            {
+                "name": "core/library.py",
+                "changed_lines": 12
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/06 10:09:24",
+        "files": [
+            {
+                "name": "quality/library.py",
+                "changed_lines": 67
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 12
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/24 09:28:02",
+        "files": [
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 95
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/06 23:42:46",
+        "files": [
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 21
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/13 19:32:10",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 99
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 9
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 89
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/15 10:51:55",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 36
+            },
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 57
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/03/30 13:32:39",
+        "files": [
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 81
+            },
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 28
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/01/23 07:43:25",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/14 00:29:01",
+        "files": [
+            {
+                "name": "core/net.py",
+                "changed_lines": 59
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 3
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 16
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/03/19 08:30:18",
+        "files": [
+            {
+                "name": "library/tools.py",
+                "changed_lines": 92
+            },
+            {
+                "name": "utils/net.py",
+                "changed_lines": 56
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/03/25 18:57:56",
+        "files": [
+            {
+                "name": "library/library.py",
+                "changed_lines": 63
+            },
+            {
+                "name": "core/library.py",
+                "changed_lines": 3
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/01/02 05:49:41",
+        "files": [
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 47
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/10 03:53:00",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 42
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/03/16 10:08:53",
+        "files": [
+            {
+                "name": "backend/library.py",
+                "changed_lines": 91
+            },
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 17
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/03/09 09:09:21",
+        "files": [
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 84
+            },
+            {
+                "name": "core/library.py",
+                "changed_lines": 42
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/03/17 05:24:34",
+        "files": [
+            {
+                "name": "backend/library.py",
+                "changed_lines": 22
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/02/09 18:01:55",
+        "files": [
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 96
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/02/05 14:14:45",
+        "files": [
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 67
+            },
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 87
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/21 03:07:20",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 45
+            },
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 47
+            },
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 88
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/25 22:45:02",
+        "files": [
+            {
+                "name": "quality/tools.py",
+                "changed_lines": 84
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/01/01 03:43:57",
+        "files": [
+            {
+                "name": "library/tools.py",
+                "changed_lines": 14
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/22 20:49:46",
+        "files": [
+            {
+                "name": "library/library.py",
+                "changed_lines": 56
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 85
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 11
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/12 19:00:18",
+        "files": [
+            {
+                "name": "library/tools.py",
+                "changed_lines": 8
+            },
+            {
+                "name": "library/net.py",
+                "changed_lines": 57
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 10
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/28 00:09:25",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 32
+            },
+            {
+                "name": "balancer/utils.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/01/11 18:47:19",
+        "files": [
+            {
+                "name": "core/tools.py",
+                "changed_lines": 43
+            },
+            {
+                "name": "backend/net.py",
+                "changed_lines": 97
+            },
+            {
+                "name": "quality/library.py",
+                "changed_lines": 57
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/01/10 02:19:52",
+        "files": [
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 83
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 40
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/03/29 10:39:38",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 69
+            },
+            {
+                "name": "utils/library.py",
+                "changed_lines": 49
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/03/02 11:21:13",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 81
+            },
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 87
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/01/20 05:54:29",
+        "files": [
+            {
+                "name": "balancer/utils.py",
+                "changed_lines": 16
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 72
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/01/16 20:52:16",
+        "files": [
+            {
+                "name": "utils/utils.py",
+                "changed_lines": 84
+            },
+            {
+                "name": "library/net.py",
+                "changed_lines": 15
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/05 09:36:30",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 51
+            },
+            {
+                "name": "quality/tools.py",
+                "changed_lines": 20
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/03/19 21:33:48",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 29
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/03/22 09:24:54",
+        "files": [
+            {
+                "name": "backend/library.py",
+                "changed_lines": 23
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/23 03:25:58",
+        "files": [
+            {
+                "name": "core/net.py",
+                "changed_lines": 66
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/13 15:34:49",
+        "files": [
+            {
+                "name": "utils/tools.py",
+                "changed_lines": 18
+            },
+            {
+                "name": "quality/library.py",
+                "changed_lines": 53
+            },
+            {
+                "name": "backend/library.py",
+                "changed_lines": 61
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/01/31 13:06:13",
+        "files": [
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 5
+            },
+            {
+                "name": "backend/tools.py",
+                "changed_lines": 72
+            },
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 87
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/03/30 00:32:40",
+        "files": [
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 5
+            },
+            {
+                "name": "backend/tools.py",
+                "changed_lines": 73
+            },
+            {
+                "name": "core/utils.py",
+                "changed_lines": 53
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/03/08 02:02:11",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 99
+            },
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 59
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/05 22:05:21",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 27
+            },
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 1
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 68
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/01/11 20:06:10",
+        "files": [
+            {
+                "name": "quality/tools.py",
+                "changed_lines": 32
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/02/18 07:18:06",
+        "files": [
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 25
+            },
+            {
+                "name": "core/tools.py",
+                "changed_lines": 94
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/02/09 02:22:12",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 88
+            },
+            {
+                "name": "utils/library.py",
+                "changed_lines": 2
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/19 22:42:14",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 87
+            },
+            {
+                "name": "utils/utils.py",
+                "changed_lines": 97
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/10 12:46:51",
+        "files": [
+            {
+                "name": "quality/net.py",
+                "changed_lines": 90
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/01 03:14:55",
+        "files": [
+            {
+                "name": "utils/tools.py",
+                "changed_lines": 51
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 22
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 75
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/02/20 17:45:11",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 74
+            },
+            {
+                "name": "quality/net.py",
+                "changed_lines": 11
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/01/07 05:22:18",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 15
+            },
+            {
+                "name": "library/utils.py",
+                "changed_lines": 59
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/02/10 10:31:57",
+        "files": [
+            {
+                "name": "utils/library.py",
+                "changed_lines": 83
+            },
+            {
+                "name": "core/tools.py",
+                "changed_lines": 12
+            },
+            {
+                "name": "backend/library.py",
+                "changed_lines": 26
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/03 06:01:48",
+        "files": [
+            {
+                "name": "utils/utils.py",
+                "changed_lines": 39
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/26 05:25:10",
+        "files": [
+            {
+                "name": "core/utils.py",
+                "changed_lines": 59
+            },
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 80
+            },
+            {
+                "name": "utils/net.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/24 06:39:05",
+        "files": [
+            {
+                "name": "library/library.py",
+                "changed_lines": 97
+            },
+            {
+                "name": "library/library.py",
+                "changed_lines": 51
+            },
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 81
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/01/20 12:21:20",
+        "files": [
+            {
+                "name": "backend/net.py",
+                "changed_lines": 18
+            },
+            {
+                "name": "frontend/library.py",
+                "changed_lines": 22
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/15 20:22:43",
+        "files": [
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 83
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 43
+            },
+            {
+                "name": "balancer/utils.py",
+                "changed_lines": 45
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/10 17:13:43",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 51
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/01/25 14:27:51",
+        "files": [
+            {
+                "name": "core/library.py",
+                "changed_lines": 81
+            },
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 2
+            },
+            {
+                "name": "quality/library.py",
+                "changed_lines": 7
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/03/15 07:39:18",
+        "files": [
+            {
+                "name": "utils/tools.py",
+                "changed_lines": 56
+            },
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 64
+            },
+            {
+                "name": "quality/net.py",
+                "changed_lines": 77
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/01/26 17:56:10",
+        "files": [
+            {
+                "name": "quality/library.py",
+                "changed_lines": 81
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 32
+            },
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/03/19 15:54:35",
+        "files": [
+            {
+                "name": "backend/library.py",
+                "changed_lines": 63
+            },
+            {
+                "name": "quality/tools.py",
+                "changed_lines": 36
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/01/18 00:13:13",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 29
+            },
+            {
+                "name": "backend/library.py",
+                "changed_lines": 38
+            },
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 88
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/08 02:19:47",
+        "files": [
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 63
+            },
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 81
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/03/02 17:35:26",
+        "files": [
+            {
+                "name": "utils/library.py",
+                "changed_lines": 47
+            },
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 11
+            },
+            {
+                "name": "library/tools.py",
+                "changed_lines": 82
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/01/22 04:28:00",
+        "files": [
+            {
+                "name": "quality/net.py",
+                "changed_lines": 18
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/03/01 11:29:35",
+        "files": [
+            {
+                "name": "utils/utils.py",
+                "changed_lines": 51
+            },
+            {
+                "name": "library/library.py",
+                "changed_lines": 20
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/16 07:46:20",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 24
+            },
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 82
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/03/05 05:40:58",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 59
+            },
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 34
+            }
+        ]
+    },
+    {
+        "username": "bober38",
+        "commit_time": "2021/01/15 21:17:59",
+        "files": [
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 3
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/05 03:37:17",
+        "files": [
+            {
+                "name": "backend/net.py",
+                "changed_lines": 89
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 7
+            },
+            {
+                "name": "core/library.py",
+                "changed_lines": 74
+            }
+        ]
+    },
+    {
+        "username": "coder007",
+        "commit_time": "2021/03/23 16:28:47",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 47
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 27
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 39
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/03/12 15:54:16",
+        "files": [
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 90
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/25 10:56:50",
+        "files": [
+            {
+                "name": "core/tools.py",
+                "changed_lines": 42
+            },
+            {
+                "name": "backend/library.py",
+                "changed_lines": 38
+            },
+            {
+                "name": "balancer/net.py",
+                "changed_lines": 64
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/10 11:25:26",
+        "files": [
+            {
+                "name": "utils/net.py",
+                "changed_lines": 60
+            },
+            {
+                "name": "backend/tools.py",
+                "changed_lines": 100
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/02/20 14:51:08",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 9
+            },
+            {
+                "name": "balancer/utils.py",
+                "changed_lines": 61
+            }
+        ]
+    },
+    {
+        "username": "john_snow",
+        "commit_time": "2021/03/23 16:48:53",
+        "files": [
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 68
+            },
+            {
+                "name": "utils/library.py",
+                "changed_lines": 10
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/01/16 02:07:22",
+        "files": [
+            {
+                "name": "backend/net.py",
+                "changed_lines": 19
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/02/17 11:24:28",
+        "files": [
+            {
+                "name": "library/utils.py",
+                "changed_lines": 46
+            },
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 78
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/01/02 19:07:10",
+        "files": [
+            {
+                "name": "balancer/tools.py",
+                "changed_lines": 65
+            },
+            {
+                "name": "quality/library.py",
+                "changed_lines": 54
+            },
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 22
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/02/17 07:47:42",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 76
+            },
+            {
+                "name": "library/net.py",
+                "changed_lines": 80
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/01/07 02:12:20",
+        "files": [
+            {
+                "name": "quality/utils.py",
+                "changed_lines": 86
+            },
+            {
+                "name": "frontend/tools.py",
+                "changed_lines": 68
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 57
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/01/17 19:07:59",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 76
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 43
+            },
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 66
+            }
+        ]
+    },
+    {
+        "username": "pet",
+        "commit_time": "2021/03/08 15:38:39",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 52
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 38
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/02/21 17:22:59",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 99
+            }
+        ]
+    },
+    {
+        "username": "yegor",
+        "commit_time": "2021/03/02 20:55:38",
+        "files": [
+            {
+                "name": "frontend/utils.py",
+                "changed_lines": 78
+            }
+        ]
+    },
+    {
+        "username": "vanessic",
+        "commit_time": "2021/02/21 13:38:12",
+        "files": [
+            {
+                "name": "utils/library.py",
+                "changed_lines": 22
+            }
+        ]
+    },
+    {
+        "username": "zeno",
+        "commit_time": "2021/02/07 21:37:49",
+        "files": [
+            {
+                "name": "balancer/library.py",
+                "changed_lines": 96
+            },
+            {
+                "name": "frontend/net.py",
+                "changed_lines": 28
+            }
+        ]
+    },
+    {
+        "username": "ivan_ivanov",
+        "commit_time": "2021/03/14 03:24:59",
+        "files": [
+            {
+                "name": "backend/utils.py",
+                "changed_lines": 23
+            },
+            {
+                "name": "library/tools.py",
+                "changed_lines": 53
+            },
+            {
+                "name": "backend/library.py",
+                "changed_lines": 71
+            }
+        ]
+    }
+]
