@@ -31,6 +31,8 @@ __Домашки:__
 
 - [Домашняя работа №1](https://official.contest.yandex.ru/contest/37490/enter/?retPage=problems)
 - [Домашняя работа №2](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
+- [Домашняя работа №3](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
+- [Домашняя работа №4](https://t.me/c/1154842830/100). Сдавать [сюда](https://forms.gle/va18jMuVSQV9ncWb6)
 
 
 __Контрольные:__
