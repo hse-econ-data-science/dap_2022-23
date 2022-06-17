@@ -46,7 +46,8 @@ __Контрольные:__
 - Мини-ср 2: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSea6UXtW2C3LHVvFBGpRFyE6klyz568_526AcZLOyZcjUUqHg/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSdXs8kv8nxyvJdV9ESSmZqw3NV955EswiOBt7ZupnWcrXTD5w/viewform?usp=sf_link)
 - Мини-ср 3: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSffQuoMUKKozLRIcdf_TKWr8hTmmG2FG_cbwNcoAbWNFWUFbw/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLScnnl1DlVfrpmZ8IO2fxIqAQzME1ln18vLB1wOCWLKCm06QOQ/viewform?usp=sf_link)
 - Мини-ср 4: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSf7uXZJ3Ca3VKMIzwCBLyLtCzKUYTIeGjMOxOtuPwNdFgiGTQ/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSe_RFqA-ya1RsVnRDg9XgZRwdcsOWfDxvyF5t4sIhm2EKVhdw/viewform?usp=sf_link)
-- Мини-ср 5: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSfySBkHYA_rUXfCS0IXATMAm4rf4vkyv1iIaKXF0Eyr8eNO1w/viewform?usp=sf_link) 
+- Мини-ср 5: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSfySBkHYA_rUXfCS0IXATMAm4rf4vkyv1iIaKXF0Eyr8eNO1w/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSd9JIHploK9kNRH-ezNkZbHXdMFrUa8o-YOJaZnQj9s6nAa5A/viewform?usp=sf_link) 
+- Мини-ср 6: [вариант](https://docs.google.com/forms/d/e/1FAIpQLSdF-Mkyc2pmTHaGuS00qNOWtyepKQn4FGB4dQtw60yvULjPcQ/viewform?usp=sf_link)
 
 
 ## Большой план маленьких побед
