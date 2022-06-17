@@ -38,6 +38,8 @@ __Домашки:__
 __Контрольные:__
 
 - [Самостоятельная работа 1](https://official.contest.yandex.ru/contest/37927/enter/?retPage=problems)
+- [Самостоятельная работа 2](https://official.contest.yandex.ru/contest/38157/enter/?retPage=problems)
+- [Самостоятельная работа 3](https://official.contest.yandex.ru/contest/38495/enter/?retPage=problems)
 
 
 Примеры мини-самостоялок: 
